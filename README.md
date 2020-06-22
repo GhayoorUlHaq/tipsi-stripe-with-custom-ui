@@ -7,4 +7,8 @@ Before moving ahead, make sure you have read README.md for both projects
 
 #
 
+## Preview
+![](./preview.gif)
+
+
 Open for contributions ❤️. Feel free to improve or suggest anything 😇.
