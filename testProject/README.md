@@ -1,6 +1,6 @@
 ## React Native APP with Custom UI ♡
 
-This is stripe backend in node.js. This will handle the Stripe.charges.create method.
+This is React Native mobile app to handle stripe payments with custom UI.
 
 #
 
