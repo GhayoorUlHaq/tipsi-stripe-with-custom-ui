@@ -23,7 +23,7 @@ stripe.setOptions({
 ```
 cd ios && pod install && cd ..
 ```
-* Configure node.js backend that can be found here and run.
+* Configure node.js backend that can be found [here](https://github.com/GhayoorUlHaq/tipsi-stripe-with-custom-ui/tree/master/backend) and run.
 * Run application on either android or iOS emulator
 * Make Payment with Tipsi Stripe Using Custom UI.
 
